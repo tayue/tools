@@ -12,5 +12,5 @@
   "psr-4":{
    "Tayue\\":"src/Tayue"
   }
-    "require": {}
+}
 }
