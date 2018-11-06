@@ -1,0 +1,16 @@
+{
+    "name": "/tayue/tools",
+	"type": "project",
+	"licence": "MIT",
+    "authors": [
+        {
+            "name": "tayueliuxiang",
+            "email": "tayueliuxiang1@sina.com"
+        }
+    ],
+	"autoload": {
+  "psr-4":{
+   "Tayue\\":"src/Tayue"
+  }
+    "require": {}
+}
