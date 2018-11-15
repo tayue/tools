@@ -1,6 +1,6 @@
-{ 
+{
     "name": "tayue/tools",
-	"type": "project",
+	"type": "library",
 	"licence": "MIT",
     "authors": [
         {
